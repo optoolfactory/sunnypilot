@@ -147,6 +147,9 @@ class CAR:
   GENESIS_G90 = "GENESIS G90 2017"
   GENESIS_GV80 = "GENESIS GV80 2023"
   GENESIS_EGV70 = "GENESIS eGV70 1ST GEN"
+  GENESIS_G80_RG3 = "GENESIS G80 2020"
+  GENESIS_EG80_RG3 = "GENESIS eG80 2020"
+
 
 class Footnote(Enum):
   # footnotes which mention "red panda" will be replaced with the CAN FD panda kit on the shop page
